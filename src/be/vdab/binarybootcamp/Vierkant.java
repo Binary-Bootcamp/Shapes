@@ -6,5 +6,6 @@ public class Vierkant implements Shapez {
 		
 		return super.toString();
 	}
+	
 
 }
