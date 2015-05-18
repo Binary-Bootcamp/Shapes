@@ -11,7 +11,6 @@ public class Launcher {
 		MyFrame f = new MyFrame();
 		j.setBounds(500,500,500,500);
 		j.setVisible(true);
-		j.paint(g);
 	}
 
 }
