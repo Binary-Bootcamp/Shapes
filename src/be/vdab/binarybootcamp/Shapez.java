@@ -1,5 +1,5 @@
 package be.vdab.binarybootcamp;
 
-public class Shapez {
-
+public interface Shapez {
+		public String toString();
 }
